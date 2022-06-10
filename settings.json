@@ -1,0 +1,8 @@
+{
+  "openPhases" : ["phaseBugReporting", "phaseTeamResponse", "phaseTesterResponse", "phaseModeration"],
+  "phaseBugReporting": "bugreporting",
+  "phaseTeamResponse": "pe-results",
+  "phaseTesterResponse": "bugreporting",
+  "phaseModeration": "pe-evaluation"
+}
+
